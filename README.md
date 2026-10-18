@@ -86,6 +86,6 @@ My goal is to become a better problem solver, strengthen my programming fundamen
 
 ## 👨‍💻 About Me
 
-**Abhi Kakade**
+**Abhijit Ganesh Kakade**
 
 Logical Thinking | Daily Coding Practice | Problem Solving | Continuous Learning
