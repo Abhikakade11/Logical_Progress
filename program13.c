@@ -39,7 +39,6 @@ int main ()
     int  iValue1 = 0, iValue2 = 0, iResult = 0;
     
     printf("Enter 1st Number :\n");
-
     if(scanf("%d",&iValue1) !=1 )
     {
         fprintf(stderr,"unable to procced as Input is invalid\n");
@@ -47,7 +46,6 @@ int main ()
     }
     
     printf("Enter 2nd Number :\n");
-
     if(scanf("%d",&iValue2) !=1 )
     {
         fprintf(stderr,"unable to procced as Input is invalid\n");

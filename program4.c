@@ -50,10 +50,10 @@ int main ()
 {
     int  iValue1, iValue2, iResult;
     
-    printf("Enter 1st Number :\n");
+    printf("Enter 1st Number : \n");
     scanf("%d",&iValue1);
     
-    printf("Enter 2nd Number :\n");
+    printf("Enter 2nd Number : \n");
     scanf("%d",&iValue2);
 
     iResult = iValue1 + iValue2;         //Bussiness logic

@@ -46,13 +46,12 @@ step :5 test the program
 
 #include<stdio.h>
 int main ()
-
 {
-    int  iValue1 = 10, iValue2 = 11, iResult = 0; 
+    int iValue1 = 10, iValue2 = 11, iResult = 0;
 
-    iResult = iValue1 + iValue2;         //Bussiness logic
+    iResult = iValue1 + iValue2;        //Bussiness Logic
 
-    printf("%d\n",iResult);
+    printf("%d",iResult);
 
     return 0;
 }

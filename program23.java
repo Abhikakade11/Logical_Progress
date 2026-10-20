@@ -15,4 +15,5 @@ class program23
         System.out.println("Welcome "+sName);
 
     }
+
 }

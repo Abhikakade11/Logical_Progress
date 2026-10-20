@@ -50,16 +50,17 @@ int main ()
 {
     int  iValue1 = 0, iValue2 = 0, iResult = 0;
     
-    printf("Enter 1st Number :\n");
+    printf("Enter 1st Number : \n");
     scanf("%d",&iValue1);
     
-    printf("Enter 2nd Number :\n");
+    printf("Enter 2nd Number : \n");
     scanf("%d",&iValue2);
 
     iResult = iValue1 + iValue2;         // Bussiness logic
 
-    printf("Addition  is : %d\n",iResult);
+    printf("Addition is : %d\n",iResult);
 
     return 0;
 
 }
+

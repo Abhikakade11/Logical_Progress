@@ -45,14 +45,15 @@ step :5 test the program
 
 
 #include<stdio.h>
-int main ()
-
+int main()
 {
-    int  i = 10, j = 11, k = 0; 
+    int i = 10, j = 21, k = 0;
 
-    k = i + j;         //Bussiness logic
+        k = i + j;          //Bussiness Logic
 
-    printf("%d\n",k);
+    printf("%d\n",k);         
 
     return 0;
+
 }
+

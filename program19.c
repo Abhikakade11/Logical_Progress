@@ -4,15 +4,18 @@
 
 bool ChekEven(int ino)
 {
+
     if((ino % 2) == 0)
     {
         return true;
     }
+
     else 
     {
         return false;
     }
 }
+
 int main()
 {
     int iValue = 0;
@@ -22,16 +25,16 @@ int main()
 
     scanf("%d",&iValue);
 
-   bRet = ChekEven(iValue);
+    bRet = ChekEven(iValue);
 
-   if(bRet == true)
-   {
-    printf("It is Even :");
-   }
+    if(bRet == true)
+    {
+        printf("It is Even :");
+    }
    
-   else
-   {
-    printf("It is Odd");
-   }
-    return EXIT_SUCCESS;
+    else
+    {
+        printf("It is Odd");
+    }
+        return EXIT_SUCCESS;
 }

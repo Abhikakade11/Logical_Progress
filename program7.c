@@ -75,7 +75,7 @@ int Addition(int ino1, int ino2)
 int main ()
 
 {
-    int  iValue1 = 0, iValue2 = 0, iResult =0;
+    int  iValue1 = 0, iValue2 = 0, iResult = 0;
     
     printf("Enter 1st Number :\n");
     scanf("%d",&iValue1);
